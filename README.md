@@ -25,3 +25,27 @@ This telegram bot can be used to get wallpapers, movie or TV series info, etc. T
 2. `movie info` This command can be used to get info like poster, trailer and ratings, overview, etc. of specified movie.
 
 > ![movie info](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/movie_info.png)
+
+3. `tvseries info` This command can be used to get info like poster, trailer, number of episodes & seasons, etc. of specified tvseries.
+
+> ![tvseries info](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/tvseries_info.png)
+
+4. `movie recommendations` This command can be used to get recommendations of specified movie. The recommendations are made using genre, series, etc. of the specified movie.
+
+> ![movie recommendations](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/movie_recommendations.png)
+
+5. `tvseries recommendations` This command is same as `movie recommendations`, this one differs as it recommends tvseries.
+
+> ![tvseries recommendations](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/tvseries_recommendations.png)
+
+6. `popular movies` This command is used to get popular movies based on a particular genre.
+
+> ![popular movies](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/popular_movies.png)
+
+7. `popular tvseries` This command is used to get popular tvseries based on a particular genre.
+
+> ![popular tvseries](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/popular_tvseries.png)
+
+8. `get trailer` This command gives you the trailer of movie or tvseries.
+
+> ![get trailer](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/get_trailer.png)
