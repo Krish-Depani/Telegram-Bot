@@ -49,3 +49,12 @@ This telegram bot can be used to get wallpapers, movie or TV series info, etc. T
 8. `get trailer` This command gives you the trailer of movie or tvseries.
 
 > ![get trailer](https://github.com/Krish-Depani/Telegram-Bot/blob/main/Bot%20Photos/get_trailer.png)
+
+## Conclusion
+> [tmdbv3api](https://github.com/AnthonyBloomer/tmdbv3api) was used for all the movie and tvseries stuff. This API library is created based on the famous website [The Movie Database (TMDB)](https://www.themoviedb.org/).
+
+> [pexels-api](https://github.com/AguilarLagunasArturo/pexels-api) was used for the wallpapers. This API library is created based on website [Pexels](https://www.pexels.com/)
+
+> [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) was used for creating the telegram bot. 
+
+## Thanks for visiting!!
